@@ -1,0 +1,3588 @@
+{
+    "measurement_id": 57017290,
+    "probes": {
+        "1005287": [
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688612755
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688616354
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688619962
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688623562
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688627166
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688630759
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688634359
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688637955
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688641566
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688645159
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688648766
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688652368
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688655959
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688659554
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688663167
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688666758
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688670368
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688673955
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688677563
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688681155
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688684764
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688688360
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688691954
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688695567
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688699156
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688702754
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688706357
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688709959
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688713555
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688717165
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688720767
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688724368
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688727962
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688731557
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688735154
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688738756
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688742361
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688745961
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688749558
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688753163
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688756758
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688760367
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688763960
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688767561
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688771154
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688774768
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688778357
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688781968
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688785554
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688789160
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688792767
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688796358
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688799963
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688803555
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688807155
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688810766
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688814365
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688817965
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688821566
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688825155
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688828756
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688832356
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688835963
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688839555
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688843161
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688846764
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688850355
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688853968
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688857563
+            }
+        ],
+        "12808": [
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688612723
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688616325
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688619914
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688623523
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688627113
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688630720
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688634321
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688637911
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688641525
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688645115
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688648714
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688652312
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688655915
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688659522
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688663119
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688666714
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688670317
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688673911
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688677511
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688681117
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688684711
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688688319
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 12,
+                "created": 1688691922
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 12,
+                "created": 1688695522
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 12,
+                "created": 1688699116
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 12,
+                "created": 1688702720
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688706323
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688709912
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688713516
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688717112
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688720725
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688724324
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688727917
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688731514
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688735112
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688738719
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688742317
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688745911
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688749522
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688753117
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688756710
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688760319
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688763910
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688767519
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688771113
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688774721
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688778318
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688781912
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688785516
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688789124
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 12,
+                "created": 1688792725
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688796316
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688799914
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688803524
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 12,
+                "created": 1688807122
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 12,
+                "created": 1688810719
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688814314
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688817920
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688821513
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688825110
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688828712
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688832324
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688835921
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688839512
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688843119
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688846719
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688850325
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688853923
+            },
+            {
+                "average_latency": 3,
+                "total_hops": 11,
+                "created": 1688857519
+            }
+        ],
+        "14065": [
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688612700
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688616313
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688619900
+            },
+            {
+                "average_latency": 24,
+                "total_hops": 11,
+                "created": 1688623511
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688627105
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688630703
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688634302
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688637900
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688641502
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688645112
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688648712
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688652302
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688655903
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688659503
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688663110
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688666704
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688670310
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688673900
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688677512
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688681110
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688684713
+            },
+            {
+                "average_latency": 24,
+                "total_hops": 11,
+                "created": 1688688313
+            },
+            {
+                "average_latency": 26,
+                "total_hops": 11,
+                "created": 1688691907
+            },
+            {
+                "average_latency": 26,
+                "total_hops": 11,
+                "created": 1688695504
+            },
+            {
+                "average_latency": 24,
+                "total_hops": 11,
+                "created": 1688699111
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688702704
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688706302
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688709908
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688713513
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688717100
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688720710
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688724306
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688727903
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688731500
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688735105
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688738705
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688742304
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688745900
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688749511
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 11,
+                "created": 1688753107
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688850311
+            }
+        ],
+        "25421": [
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688612755
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688616354
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688619942
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688623546
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688627153
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688630743
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688634353
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688637945
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688641545
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688645151
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688648745
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688652343
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688655951
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688659546
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688663148
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688666750
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688670354
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688673956
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688677551
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688681149
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688684743
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688688353
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688691946
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688695541
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688699148
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688702744
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688706355
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688709953
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688713549
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688717145
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688720745
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688724348
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688727946
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688731553
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688735146
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688738755
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688742349
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688745954
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688749542
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688753148
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688756755
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688760343
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688763948
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688767541
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688771153
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688774749
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688778346
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688781945
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688785549
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688789144
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688792756
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688796350
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688799953
+            },
+            {
+                "average_latency": 8,
+                "total_hops": 11,
+                "created": 1688803549
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688807151
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688810743
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688814345
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688817949
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688821555
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688825145
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688828746
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688832355
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688835955
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 11,
+                "created": 1688839551
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688843151
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688846744
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688850352
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688853948
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688857548
+            }
+        ],
+        "32670": [
+            {
+                "average_latency": 32,
+                "total_hops": 11,
+                "created": 1688612790
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688616394
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688619985
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688623596
+            },
+            {
+                "average_latency": 30,
+                "total_hops": 11,
+                "created": 1688627196
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688630793
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688634389
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688637995
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688641590
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688645192
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688648798
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688652397
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688655993
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688659599
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688663188
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688666789
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688670386
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688673999
+            },
+            {
+                "average_latency": 32,
+                "total_hops": 11,
+                "created": 1688677587
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688681188
+            },
+            {
+                "average_latency": 30,
+                "total_hops": 11,
+                "created": 1688684793
+            },
+            {
+                "average_latency": 30,
+                "total_hops": 11,
+                "created": 1688688385
+            },
+            {
+                "average_latency": 30,
+                "total_hops": 11,
+                "created": 1688691991
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688695599
+            },
+            {
+                "average_latency": 30,
+                "total_hops": 11,
+                "created": 1688699188
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688702792
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688706388
+            },
+            {
+                "average_latency": 26,
+                "total_hops": 11,
+                "created": 1688709994
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688713585
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688717190
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688720797
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688724393
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688727991
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688731598
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688735185
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688738788
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688742398
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688745992
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688749587
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688753194
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688756797
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688760397
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688763993
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688767591
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688771199
+            },
+            {
+                "average_latency": 30,
+                "total_hops": 11,
+                "created": 1688774796
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688778393
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688781999
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688785599
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688789191
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 11,
+                "created": 1688792798
+            },
+            {
+                "average_latency": 26,
+                "total_hops": 11,
+                "created": 1688796399
+            },
+            {
+                "average_latency": 26,
+                "total_hops": 11,
+                "created": 1688799993
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688803595
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688807189
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688810786
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688814393
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688817991
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688821585
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688825188
+            },
+            {
+                "average_latency": 29,
+                "total_hops": 11,
+                "created": 1688828791
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688832387
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688835996
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688839594
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688843196
+            },
+            {
+                "average_latency": 27,
+                "total_hops": 11,
+                "created": 1688846794
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688850391
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688853990
+            },
+            {
+                "average_latency": 28,
+                "total_hops": 11,
+                "created": 1688857591
+            }
+        ],
+        "55564": [
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688612764
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688616370
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688619968
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688623573
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688627160
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688630769
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688634371
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688637962
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688641573
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688645173
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688648771
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688652365
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688655969
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688659566
+            },
+            {
+                "average_latency": 45,
+                "total_hops": 9,
+                "created": 1688663172
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688666772
+            },
+            {
+                "average_latency": 45,
+                "total_hops": 9,
+                "created": 1688670373
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688673971
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688677557
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688681173
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688684768
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688688371
+            },
+            {
+                "average_latency": 47,
+                "total_hops": 9,
+                "created": 1688691969
+            },
+            {
+                "average_latency": 48,
+                "total_hops": 9,
+                "created": 1688695565
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688699171
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688702770
+            },
+            {
+                "average_latency": 45,
+                "total_hops": 9,
+                "created": 1688706373
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688709967
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688713559
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688717162
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688720774
+            },
+            {
+                "average_latency": 39,
+                "total_hops": 9,
+                "created": 1688724367
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688727961
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688731566
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688735162
+            },
+            {
+                "average_latency": 47,
+                "total_hops": 9,
+                "created": 1688738772
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688742365
+            },
+            {
+                "average_latency": 39,
+                "total_hops": 9,
+                "created": 1688745966
+            },
+            {
+                "average_latency": 36,
+                "total_hops": 9,
+                "created": 1688749571
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688753171
+            },
+            {
+                "average_latency": 37,
+                "total_hops": 9,
+                "created": 1688756764
+            },
+            {
+                "average_latency": 37,
+                "total_hops": 9,
+                "created": 1688760368
+            },
+            {
+                "average_latency": 38,
+                "total_hops": 9,
+                "created": 1688763967
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688767560
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688771168
+            },
+            {
+                "average_latency": 44,
+                "total_hops": 9,
+                "created": 1688774764
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688778366
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688781962
+            },
+            {
+                "average_latency": 46,
+                "total_hops": 9,
+                "created": 1688785572
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688789164
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688792769
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688796368
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688799967
+            },
+            {
+                "average_latency": 42,
+                "total_hops": 9,
+                "created": 1688803559
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688807171
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688810772
+            },
+            {
+                "average_latency": 39,
+                "total_hops": 9,
+                "created": 1688814371
+            },
+            {
+                "average_latency": 33,
+                "total_hops": 9,
+                "created": 1688817970
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688821563
+            },
+            {
+                "average_latency": 39,
+                "total_hops": 9,
+                "created": 1688825165
+            },
+            {
+                "average_latency": 38,
+                "total_hops": 9,
+                "created": 1688828764
+            },
+            {
+                "average_latency": 43,
+                "total_hops": 9,
+                "created": 1688832359
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688835972
+            },
+            {
+                "average_latency": 41,
+                "total_hops": 9,
+                "created": 1688839563
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688843164
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688846765
+            },
+            {
+                "average_latency": 40,
+                "total_hops": 9,
+                "created": 1688850361
+            },
+            {
+                "average_latency": 38,
+                "total_hops": 9,
+                "created": 1688853964
+            },
+            {
+                "average_latency": 39,
+                "total_hops": 9,
+                "created": 1688857564
+            }
+        ],
+        "62649": [
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688612881
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 10,
+                "created": 1688616492
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688620081
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688623686
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688627291
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688630895
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688634493
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688638088
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688641690
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688645287
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688648881
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688652487
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688656090
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688659686
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688663291
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688666884
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688670489
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688674082
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688677685
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688681282
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688684895
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688688483
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688692092
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 10,
+                "created": 1688695686
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688699285
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688702893
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688706488
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688710090
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688713690
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688717281
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688720894
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688724487
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688728090
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 10,
+                "created": 1688731684
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688735293
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688738895
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688742486
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688746088
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688749691
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688753294
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688756883
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688760494
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688764086
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688767685
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688771283
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688774887
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688778487
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688782085
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688785689
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 10,
+                "created": 1688789294
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688792888
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 10,
+                "created": 1688796485
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688800094
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688803688
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688807288
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688810890
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688814494
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688818089
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688821690
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688825291
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688828894
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 10,
+                "created": 1688832495
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688836087
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688839695
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688843286
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 10,
+                "created": 1688846886
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688850489
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 10,
+                "created": 1688854088
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 10,
+                "created": 1688857681
+            }
+        ],
+        "51380": [
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688612997
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 13,
+                "created": 1688616598
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688620199
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688623793
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688627394
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688631005
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688634605
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 11,
+                "created": 1688638197
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688641792
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688645400
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688648992
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688652596
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688656196
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688659802
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688663396
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688666997
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688670597
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688674199
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688677797
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688681398
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688685005
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688688597
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688692203
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688695799
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688699404
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688703003
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688706602
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688710200
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688713795
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688717396
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688720998
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688724594
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688728192
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688731798
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688735398
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688738996
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688742607
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688746200
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688749804
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688753393
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688756995
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688760594
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688764203
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688767805
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688771394
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688775005
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688778596
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688782204
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688785795
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688789404
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688792992
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 13,
+                "created": 1688796600
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688800199
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688803803
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688807397
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688810998
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688814603
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688818197
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688821806
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688825394
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688829006
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688832607
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688836202
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688839801
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 11,
+                "created": 1688843398
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688847004
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 11,
+                "created": 1688850592
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688854204
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 10,
+                "created": 1688857798
+            }
+        ],
+        "61067": [
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688613101
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688616696
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688620295
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688623900
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688627490
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 12,
+                "created": 1688631096
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688634702
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688638292
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688641894
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688645502
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688649101
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688652698
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 12,
+                "created": 1688656292
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688659893
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688663501
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 12,
+                "created": 1688667090
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688670689
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688674303
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688677889
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688681493
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688685102
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688688697
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688692291
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 12,
+                "created": 1688695900
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688699497
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688703094
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688706700
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688710290
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688713894
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688717501
+            },
+            {
+                "average_latency": 17,
+                "total_hops": 12,
+                "created": 1688721093
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688724701
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688728289
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688731903
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688735501
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688739096
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688742689
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688746292
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688749890
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688753503
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688757100
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688760694
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688764291
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688767893
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688771496
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688775098
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 12,
+                "created": 1688778690
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688782296
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688785892
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688789491
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688793092
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688796692
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688800293
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 12,
+                "created": 1688803896
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688807492
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688811097
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688814698
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688818295
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688821901
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 12,
+                "created": 1688825500
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688829091
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688832703
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 12,
+                "created": 1688836293
+            }
+        ],
+        "62274": [
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688613099
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688616701
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688620293
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688623889
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688627499
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688631095
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688634697
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688638299
+            },
+            {
+                "average_latency": 16,
+                "total_hops": 11,
+                "created": 1688641895
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688645499
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688649098
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688652702
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688656303
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688659889
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688663495
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688667094
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688670691
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688674294
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 11,
+                "created": 1688677890
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688681494
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 11,
+                "created": 1688685093
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688688702
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688692302
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688695894
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688699491
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688703090
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688706694
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688710289
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688713896
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688717494
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688721094
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688724690
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688728296
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688731898
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688735500
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688739094
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688742693
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688746303
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688749903
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688753501
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688757089
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688760697
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688764290
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 11,
+                "created": 1688767892
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688771497
+            },
+            {
+                "average_latency": 23,
+                "total_hops": 11,
+                "created": 1688775089
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688778703
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688782292
+            },
+            {
+                "average_latency": 13,
+                "total_hops": 11,
+                "created": 1688785895
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688789492
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688793094
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 11,
+                "created": 1688796703
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688800301
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688803897
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688807502
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688811102
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688814694
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688818300
+            },
+            {
+                "average_latency": 14,
+                "total_hops": 11,
+                "created": 1688821892
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688825497
+            },
+            {
+                "average_latency": 10,
+                "total_hops": 11,
+                "created": 1688829089
+            },
+            {
+                "average_latency": 15,
+                "total_hops": 11,
+                "created": 1688832701
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688836300
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688839900
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688843490
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688847091
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688850698
+            },
+            {
+                "average_latency": 12,
+                "total_hops": 11,
+                "created": 1688854294
+            },
+            {
+                "average_latency": 11,
+                "total_hops": 11,
+                "created": 1688857896
+            }
+        ],
+        "6891": [
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688623563
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688627163
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 16,
+                "created": 1688630753
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 16,
+                "created": 1688634356
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688637964
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 17,
+                "created": 1688641556
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 16,
+                "created": 1688645161
+            },
+            {
+                "average_latency": 8,
+                "total_hops": 17,
+                "created": 1688648762
+            },
+            {
+                "average_latency": 8,
+                "total_hops": 17,
+                "created": 1688652362
+            },
+            {
+                "average_latency": 7,
+                "total_hops": 17,
+                "created": 1688735156
+            },
+            {
+                "average_latency": 9,
+                "total_hops": 17,
+                "created": 1688738757
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 16,
+                "created": 1688742359
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688745959
+            },
+            {
+                "average_latency": 8,
+                "total_hops": 17,
+                "created": 1688749567
+            },
+            {
+                "average_latency": 8,
+                "total_hops": 17,
+                "created": 1688753166
+            },
+            {
+                "average_latency": 8,
+                "total_hops": 17,
+                "created": 1688756753
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 16,
+                "created": 1688760356
+            },
+            {
+                "average_latency": 9,
+                "total_hops": 17,
+                "created": 1688763960
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688767564
+            },
+            {
+                "average_latency": 6,
+                "total_hops": 16,
+                "created": 1688846762
+            },
+            {
+                "average_latency": 5,
+                "total_hops": 16,
+                "created": 1688850359
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688853964
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 16,
+                "created": 1688857562
+            }
+        ],
+        "7057": [
+            {
+                "average_latency": 20,
+                "total_hops": 7,
+                "created": 1688713515
+            },
+            {
+                "average_latency": 20,
+                "total_hops": 7,
+                "created": 1688717117
+            },
+            {
+                "average_latency": 21,
+                "total_hops": 7,
+                "created": 1688724310
+            },
+            {
+                "average_latency": 20,
+                "total_hops": 7,
+                "created": 1688731516
+            },
+            {
+                "average_latency": 20,
+                "total_hops": 7,
+                "created": 1688735110
+            }
+        ],
+        "6602": [
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688735117
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688738710
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688742320
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688745914
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688749510
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688753119
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 9,
+                "created": 1688756713
+            }
+        ],
+        "1004023": [
+            {
+                "average_latency": 3,
+                "total_hops": 7,
+                "created": 1688789992
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688793600
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688797193
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 7,
+                "created": 1688800805
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 7,
+                "created": 1688804402
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688808001
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688811596
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688815198
+            },
+            {
+                "average_latency": 4,
+                "total_hops": 7,
+                "created": 1688818798
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688822399
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688825994
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 6,
+                "created": 1688829597
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 7,
+                "created": 1688833203
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688836796
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 7,
+                "created": 1688840395
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688843995
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688847605
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688851206
+            },
+            {
+                "average_latency": 1,
+                "total_hops": 7,
+                "created": 1688854796
+            },
+            {
+                "average_latency": 2,
+                "total_hops": 7,
+                "created": 1688858396
+            }
+        ]
+    }
+}
