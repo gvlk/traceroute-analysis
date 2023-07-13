@@ -52,7 +52,7 @@ class TracerouteParser:
                 json_data = file.read()
 
             traceroute_stats = self.parse_traceroute_data(loads(json_data))
-            output_file_path = f"{self.output_directory}/stats_{traceroute_stats['measurement_id']}"
+            output_file_path = f"{self.output_directory}/stats_{traceroute_stats['measurement_id']}.json"
 
             with open(output_file_path, "w") as output_file:
                 dump(traceroute_stats, output_file, indent=4)
