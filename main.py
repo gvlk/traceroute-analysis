@@ -11,4 +11,7 @@ MEASUREMENTS_PATH = "data/raw_measurements"
 
 if __name__ == '__main__':
     traceroute_parser = TracerouteParser(MEASUREMENTS_PATH)
-    traceroute_parser.write_traceroute_data()
+    # traceroute_parser.write_traceroute_data()
+    # traceroute_parser.generate_csv_tables()
+    traceroute_parser.generate_charts()
+
