@@ -53,6 +53,9 @@ class TracerouteParser:
 
     @staticmethod
     def parse_raw_data(data: List) -> TracerouteData:
+        """
+        Recebe o arquivo JSON original e retorna um novo JSON contendo apenas o relevante para o projeto.
+        """
         stats: ProbesData = dict()
 
         for probe_data in data:
@@ -67,6 +70,7 @@ class TracerouteParser:
                     latencies.append(hop.median_rtt)
             average_latency = round(sum(latencies) / len(latencies))
 
+            # hops sem resposta não são contados
             stats[probe_id].append(
                 {
                     "created": probe.created_timestamp,
@@ -81,6 +85,10 @@ class TracerouteParser:
         }
 
     def write_traceroute_data(self) -> None:
+        """
+        Gera arquivos JSON que contem as informações relevantes para a análise com base nos arquivos de medições
+        exportados pelo RIPE Atlas.
+        """
         for file_name in listdir(self.measurements_path):
             with open(f"{self.measurements_path}/{file_name}", "r") as file:
                 json_data = file.read()
@@ -94,6 +102,9 @@ class TracerouteParser:
             print("Statistics saved to:", output_file_path)
 
     def generate_csv_tables(self) -> None:
+        """
+        Gera tabelas .csv com base nos arquivos JSON gerados pelo método write_traceroute_data().
+        """
         for file_name in listdir(self.output_directory):
             if file_name[-5:] != ".json":
                 continue
@@ -125,6 +136,10 @@ class TracerouteParser:
                 writer(file, delimiter=";").writerows(data)
 
     def generate_charts(self) -> None:
+        """
+        Gera gráficos baseados nas informações das tabelas .csv geradas pelo método generate_csv_tables(). Uma única
+        imagem será gerada para cada tabela.
+        """
         for file_name in listdir(self.output_directory):
             if file_name[-4:] != ".csv":
                 continue
@@ -145,7 +160,7 @@ class TracerouteParser:
 
             axs[0, 0].set_title("Average Latency for All Probes\nby Hour of Day (in miliseconds)", fontsize=14)
             axs[0, 0].grid(True)
-            axs[0, 0].set_xlabel("Time")
+            axs[0, 0].set_xlabel("Time of day")
             axs[0, 0].set_xticks(hours)
             axs[0, 0].set_xticklabels([f"{hour:02d}h" for hour in hours])
             axs[0, 0].tick_params(axis='x', rotation=45, labelsize=9)
@@ -155,7 +170,7 @@ class TracerouteParser:
 
             axs[0, 1].set_title("Average Hop Count for All Probes\nby Hour of Day", fontsize=14)
             axs[0, 1].grid(True)
-            axs[0, 1].set_xlabel("Time")
+            axs[0, 1].set_xlabel("Time of day")
             axs[0, 1].set_xticks(hours)
             axs[0, 1].set_xticklabels([f"{hour:02d}h" for hour in hours])
             axs[0, 1].tick_params(axis='x', rotation=45, labelsize=9)
