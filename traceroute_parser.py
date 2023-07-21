@@ -1,6 +1,6 @@
 from csv import writer, DictWriter, DictReader
 from datetime import datetime
-from json import loads, dump
+from json import load, loads, dump
 from os import listdir
 from re import search
 from typing import Dict, List, Union, Optional
@@ -299,19 +299,30 @@ class TracerouteParser:
 
     def get_location(self, ip_address: str, probe_id: int) -> str:
         """
-        Retorna informações da localização baseado no IP utilizando a IPAPI.
+        Retorna informações da localização baseado no IP utilizando a IPAPI. Se a conexão gerar um erro,
+        o método buscará a informação de localização em um arquivo “probe_origin.json”.
         """
         if probe_id in self.probe_origin:
             return self.probe_origin[probe_id]
         else:
             response = get(f"https://ipapi.co/{ip_address}/json/").json()
+
             if response.get("error"):
                 if response.get("reason") == "RateLimited":
-                    raise Exception("Limite de requisições da para IPAPI atingido.")
+                    print("Limite de requisições da para IPAPI atingido.")
+                try:
+                    with open(f"{self.output_directory}/probe_origin.json", "r") as file:
+                        probes = load(file)
+                    location = probes.get(str(probe_id))
+                    if location:
+                        self.probe_origin[probe_id] = location
+                        return location
+                    else:
+                        return "N/A"
+                except FileNotFoundError:
+                    return "N/A"
+
             city = response.get("city")
             region_code = response.get("region_code")
-            if city is None or region_code is None:
-                return "N/A"
-            else:
-                self.probe_origin[probe_id] = f"{response.get('city')}, {response.get('region_code')}"
-                return self.probe_origin[probe_id]
+            self.probe_origin[probe_id] = f"{city}, {region_code}"
+            return self.probe_origin[probe_id]
