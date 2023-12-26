@@ -47,6 +47,6 @@ This project is maintained by Guilherme Azambuja.
 
 ## Screenshots
 
-![Probes JSON](screenshots\1.png)
-![Generated CSV table](screenshots\2.png)
-![One of the generated charts](screenshots\3.png)
+![Probes JSON](screenshots/1.png)
+![Generated CSV table](screenshots/2.png)
+![One of the generated charts](screenshots/3.png)
